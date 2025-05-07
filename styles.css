@@ -78,8 +78,6 @@ footer{
   #level-title {
     font-family: 'Press Start 2P', cursive;
     font-size: 4rem;
-    top:75%;
-    left:40%;
     margin: 5%;
     margin-top: 200px;
     color: #FEF2BF;
@@ -95,6 +93,8 @@ footer{
     display: inline-block;
     padding: 5pt;
     margin: 10px;
+    top:75%;
+    left:40%;
     border-radius: 20px;
    width:200px;
    font-size: 2rem;
